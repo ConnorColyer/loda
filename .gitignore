@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific (never commit)
+xcuserdata/
+*.xcuserdatad/
+*.xcuserdata/
+*.xcuserstate
+
+# Derived data
+DerivedData/
+
+# SwiftPM
+.build/
+Package.resolved
